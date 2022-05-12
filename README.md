@@ -10,7 +10,7 @@ L'objectif est d'estimer le retard des futurs vols d'avion
 ## Préprocessing
 * Création de variables
    * Nombre de jours par rapport aux vacances
-   * Transformation de la date et l'heure enb information cyclique
+   * Transformation de la date et l'heure en information cyclique
 * One Hot Encoding ou Mean Target Encoding pour les variables catégorielles
 * Standardisation des données
 
